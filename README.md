@@ -1,13 +1,13 @@
 # preworkTest
 
-#STOP. BEFORE YOU READ BELOW CLICK THE FORK BUTTON TO MAKE A COPY OF THIS REPO
+## STOP. BEFORE YOU READ BELOW CLICK THE FORK BUTTON TO MAKE A COPY OF THIS REPO
 1. Fork this repository (You should be redirected to YOUR forked version of this repository)
 2. Click the clone button (on YOUR github handles repo)
 3. Copy the HTTPS git url to your forked copy prework repository
 4. Clone down your copy of the prework repository to your local machine in a terminal session
 
 
-# Vets In Tech Prework Assignment
+## Vets In Tech Prework Assignment
 
 In the program, we will show you explicitly how to do everything that we expect from you but to ensure that the course runs smoothly for every participant 
 there is a base skill level that you will need to meet. This project will determine your readiness to keep up with the pace of the program. 
@@ -42,6 +42,9 @@ If you need more information on how to implement the below steps refer to: **[HT
 10. Below your unordered list, create a tag that links to your LinkedIn
 11. The text for your a tag should read as LinkedIn. (If you don't have a LinkedIn profile create one)
  
+## Stuck?
+If at any point, you are stuck and unsure of how to proceed, feel free to google the error message that you are running into. We encourage our students to be autonomous and be resourceful in finding the right solution. During the course, we expect you to fully utilizing your peers, instructors and the internet!
+
 ## How Your Work Will Be Graded
 * Your final product will be assessed on how closely it matches with the Final Product Example image and completion
 of the steps above
