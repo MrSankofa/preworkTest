@@ -1,10 +1,10 @@
 # preworkTest
 
 #STOP. BEFORE YOU READ BELOW CLICK THE FORK BUTTON TO MAKE A COPY OF THIS REPO
-1. Fork this repository
-2. Click the clone button
+1. Fork this repository (You should be redirected to YOUR forked version of this repository)
+2. Click the clone button (on YOUR github handles repo)
 3. Copy the HTTPS git url to your forked copy prework repository
-4. Clone down your copy of the prework repository to your local machine
+4. Clone down your copy of the prework repository to your local machine in a terminal session
 
 
 # Vets In Tech Prework Assignment
