@@ -26,7 +26,7 @@ Here are two resources that will help you to complete the below tasks
 I know I have two movies on one line but it's hard to choose. You can do the same.
 
 
-## Follow These Steps To Implement The Final Product
+## Follow These Steps To Implement YOUR VERSION Of The Final Product
 Below is a guideline to building the final product to be completed in your index.html file
 If you need more information on how to implement the below steps refer to: **[HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)**
 
