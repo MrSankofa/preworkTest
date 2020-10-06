@@ -20,7 +20,7 @@ Here are two resources that will help you to complete the below tasks
 
 ## Final Product Example
 
-<img src="https://i.ibb.co/gtJhNTN/Screen-Shot-2020-10-06-at-11-17-10-AM.png" alt="Screen-Shot-2020-10-06-at-11-17-10-AM" border="0">
+<img src="https://i.ibb.co/KG8NJMX/Screen-Shot-2020-10-06-at-11-43-40-AM.png" alt="Screen-Shot-2020-10-06-at-11-43-40-AM" border="0">
 
 <br>
 I know I have two movies on one line but it's hard to choose. You can do the same.
