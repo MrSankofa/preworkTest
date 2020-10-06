@@ -10,7 +10,7 @@
 # Vets In Tech Prework Assignment
 
 In the program, we will show you explicitly how to do everything that we expect from you but to ensure that the course runs smoothly for every participant 
-there a base skill level that you will need to meet. This project will determine your readiness to keep up with the pace of the program. 
+there is a base skill level that you will need to meet. This project will determine your readiness to keep up with the pace of the program. 
 You will have one week to ramp up on the underlying concepts and complete the assignment below. 
 
 Here are two resources that will help you to complete the below tasks
