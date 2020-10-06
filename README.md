@@ -26,6 +26,7 @@ If you need more information on how to implement the below steps refer to: **[HT
 
 1. Use a h1 tag to make a title that reads as, "My Favorite Things"
 2. Below the h1 tag, add a image tag below the My Favorite Things title with an image of yourself
+3. Add a width attribute to the image tag that equal to "100px"
 3. Below the image tag, use a h2 tag to make a title that reads as, "My Top Movies"
 4. Below the h2 tag, use an ordered list to rank your Favorite Movies
 5. Add at least 5 list items to your ordered list with movie titles
