@@ -1,6 +1,9 @@
 # preworkTest
 
 ## STOP. BEFORE YOU READ BELOW CLICK THE FORK BUTTON TO MAKE A COPY OF THIS REPO
+
+Watch this video from one of our instructors for the next steps.
+
 1. Fork this repository (You should be redirected to YOUR forked version of this repository)
 2. Click the clone button (on YOUR github handles repo)
 3. Copy the HTTPS git url to your forked copy prework repository
